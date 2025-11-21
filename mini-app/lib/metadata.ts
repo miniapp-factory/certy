@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "File Organizer App";
+export const description = "A Python script that organizes files in a folder by their file extensions.";
 export const url = process.env.NEXT_PUBLIC_URL;
